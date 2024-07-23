@@ -1,16 +1,49 @@
-## Hi there 👋
+## どうもこたにんです 👋
 
-<!--
-**Kotanin0/Kotanin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 持ってる資格や検定並べとく
+|時期|タイトル|できること/わかること|
+|----|----|----|
+|2006|漢検 2級|常用漢字全て(2136字)がわかる|
+|2007|初級システムアドミニストレータ|過去のやつ、今でいう基本情報技術者相当の知識があることがわかる|
+|2008|ソフトウェア開発技術者|過去のやつ、今でいう応用情報技術者相当の知識があることがわかる|
+|2008|普通自動車免許|車が運転できる|
+|2009|基本情報技術者|高いIT技術・知識を持つことをアピールできる|
+|2009|応用情報技術者|高いIT技術・知識を持つことをアピールできる|
+|2014|Salesforce認定デベロッパー|2014年当時でSalesforceでの開発ができる|
+|2019|謎検 2級|ある程度の謎はとける|
+|2019|JAPAN MENSA|一定のIQ以上であることがわかる|
+|2019|天文宇宙検定 2級（銀河博士）|天文学の歴史や時事がわかる|
+|2022|Super SE 100人衆|SEとしての実績がわかる|
+|2023|調味料検定　名人|調味料の文化や歴史の知識など、調味料の魅力がわかり料理に活かせる|
+|2024|TOEIC 535点|限定された範囲内では業務上のコミュニケーションができる|
+|2024|バーベキュー初級インストラクター|楽しいバーベキューができる|
+|||
 
-Here are some ideas to get you started:
+### メディア掲載
+|時期|タイトル|どんな内容？|
+|----|----|----|
+|2018|[ボトルネックの課題発見で、SpeedIndexが3.0秒改善できました。](https://www.domore.co.jp/speedcurve/press/20191017/)|フロントエンド高速化対策でSpeedCurve使ってたときの事例記事|
+|2020|[日経新聞アワード受賞企業に聞く！｜ワンチームだからできる変化に強い顧客ニーズ対応型マーケティング［後編］](https://www.d-sol.jp/blog/interviews-with-award-winning-companies02-2)|NIKKEI BtoBデジタルマーケティングアワード 2020年大賞をいただいたときの記事|
+|2022|[アスクル社員が「Super SE 100人衆（IT優秀個人表彰）」に選定](https://prtimes.jp/main/html/rd/p/000000278.000021550.html)|Super SE 100人衆に選定いただいたときのプレス|
+|2023|[【アスクル社エンジニア組織に迫る】2名のKotlin技術顧問が行った具体的な支援とは？](https://flxy.jp/media/article/21352)|技術顧問を採用した取り組みをFLEXYさんにインタビューいただいた記事|
+|2024|[はちみつレモンと塩糀のドレッシング](https://www.kentei-uketsuke.com/chomiryo/honeylemon/)|ドレッシング作ったことがまとめられたLP|
+|2024|[「『集の力』を最大化する組織づくりを」｜コクヨ VPoE 小谷 侑哉](https://ttj.paiza.jp/archives/2024/04/22/13697/)|Team Tech Journalさんにインタビューいただいた記事|
+|2024|[ゼロから立ち上げるコクヨの開発エンジニア組織](https://ttj.paiza.jp/archives/2024/04/26/13712/)|Team Tech Journalさんにインタビューいただいた記事|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 記事執筆
+|時期|タイトル|どんな内容？|
+|----|----|----|
+|2018|[エンジニアインタビューしようとしたら手本見せてと言われたので、セルフインタビューしてみた](https://www.wantedly.com/companies/askul/post_articles/140346)|自分で自分のことインタビューした記事|
+|2018|[IntelliJ IDEAでインテリジェントなアイディアを](https://tech.askul.co.jp/entry/2018/07/11/171443)|アスクルエンジニアブログにて|
+|2018|[Kotlinを愛するファンたちの壮大なオフ会 - Kotlin Fest 2018 レポート](https://tech.askul.co.jp/entry/2018/09/20/101401)|アスクルエンジニアブログにて|
+|2018|[【Kotlin Koans】はじめるぞ！ 第0章 -準備-](https://tech.askul.co.jp/entry/2018/10/24/195654)|アスクルエンジニアブログにて|
+|2018|[第29回高専プロコン 阿南大会 に協賛しました！ #procon29](https://tech.askul.co.jp/entry/2018/12/06/083613)|アスクルエンジニアブログにて|
+|2018|[【Kotlin Koans】解いてみるぞ！ 第1章 -はじまりはじまり- 前編](https://tech.askul.co.jp/entry/2018/12/25/101200)|アスクルエンジニアブログにて|
+|2019|[第30回高専プロコン 都城大会 に行ってきました！ #procon30](https://tech.askul.co.jp/entry/2019/10/24/180000)|アスクルエンジニアブログにて|
+|2020|[「技術広報のゴールはアウトプットの文化を作ること」アスクルのEMが語る、エンジニア組織の立ち上げ時に意識したい広報のコツ](https://offers.jp/media/hr/a_1929)]|採用広報についてOffersさんに寄稿した記事|
+|2021|[JIRA API を叩いて担当者ごとのストーリーポイントを算出する](https://tech.askul.co.jp/entry/2021/02/04/120000)|アスクルエンジニアブログにて|
+|2021|[アスクルにKotlin技術顧問として長澤太郎さんと竹端尚人さんがジョインしました！](https://tech.askul.co.jp/entry/2021/06/30/120000)|アスクルエンジニアブログにて|
+|2021|[エンジニアインターンシップ2021夏を開催しました！](https://tech.askul.co.jp/entry/2021/09/16/120000)|アスクルエンジニアブログにて|
+|2022|[MyBatis 動的SQL の trim が便利なので使い方のまとめ（ついでにコード読んでみた）](https://tech.askul.co.jp/entry/2022/02/28/090000)|アスクルエンジニアブログにて|
+|2022|[Kotlin における trailing comma(末尾カンマ) について](https://tech.askul.co.jp/entry/2022/03/02/090000)|アスクルエンジニアブログにて|
+|2022|[Kotlin Coroutines のために AWS SDK for Java でノンブロッキングを実現する](https://tech.askul.co.jp/entry/2022/03/03/090000)|アスクルエンジニアブログにて|
